@@ -98,6 +98,7 @@ section {
 }
 .works__icons {
   margin-bottom: 90px;
+  font-size: 0;
 }
 .works__icon {
   margin-left: 100px;
@@ -161,7 +162,6 @@ display: inline-block;
 .links__icon {
   display: inline-block;
   width: 185px;
-  height: 100px;
   font-size: 50px;
   color: #74cfae;
   line-height: 100px;
